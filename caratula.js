@@ -1,4 +1,4 @@
 this is a great cover image 
 
 una imagen es creada en este lugar
->>   IMAGEN GENIAL <<
+>>   OTRA IMAGEN MAS GENIAL QUE LA IMAGEN GENIAL <<
